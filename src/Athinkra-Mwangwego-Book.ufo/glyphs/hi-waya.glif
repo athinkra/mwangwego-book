@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hi-waya" format="2">
+  <advance width="305"/>
+  <unicode hex="F003C"/>
+  <outline>
+    <contour>
+      <point x="13" y="466" type="line"/>
+      <point x="287" y="466" type="line"/>
+      <point x="287" y="379" type="line"/>
+      <point x="13" y="379" type="line"/>
+    </contour>
+    <contour>
+      <point x="0.017" y="630.017" type="curve" smooth="yes"/>
+      <point x="0.017" y="663.514"/>
+      <point x="26.503" y="690"/>
+      <point x="60" y="690" type="curve" smooth="yes"/>
+      <point x="92.718" y="690"/>
+      <point x="119.983" y="663.514"/>
+      <point x="119.983" y="630.017" type="curve" smooth="yes"/>
+      <point x="119.983" y="597.299"/>
+      <point x="92.718" y="570.034"/>
+      <point x="60" y="570.034" type="curve" smooth="yes"/>
+      <point x="26.503" y="570.034"/>
+      <point x="0.0170002" y="597.299"/>
+    </contour>
+    <contour>
+      <point x="184.417" y="630.017" type="curve" smooth="yes"/>
+      <point x="184.417" y="663.514"/>
+      <point x="210.903" y="690"/>
+      <point x="244.4" y="690" type="curve" smooth="yes"/>
+      <point x="277.118" y="690"/>
+      <point x="304.383" y="663.514"/>
+      <point x="304.383" y="630.017" type="curve" smooth="yes"/>
+      <point x="304.383" y="597.299"/>
+      <point x="277.118" y="570.034"/>
+      <point x="244.4" y="570.034" type="curve" smooth="yes"/>
+      <point x="210.903" y="570.034"/>
+      <point x="184.417" y="597.299"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="2">
+  <advance width="498"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="406.654" y="-13.8996" type="line"/>
+      <point x="327.148" y="-13.8996" type="line"/>
+      <point x="90.3" y="828.97" type="line"/>
+      <point x="170.917" y="828.97" type="line"/>
+    </contour>
+  </outline>
+</glyph>
