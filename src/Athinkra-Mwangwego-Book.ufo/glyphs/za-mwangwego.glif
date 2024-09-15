@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="za-mwangwego" format="2">
+  <advance width="428"/>
+  <unicode hex="F0019"/>
+  <anchor x="264" y="835" name="pewa"/>
+  <anchor x="170" y="-30" name="bottom"/>
+  <anchor x="264" y="835" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="432" type="line"/>
+      <point x="69" y="504"/>
+      <point x="107" y="622" type="qcurve" smooth="yes"/>
+      <point x="120" y="663"/>
+      <point x="145" y="735" type="qcurve"/>
+      <point x="157" y="774"/>
+      <point x="222" y="815"/>
+      <point x="264" y="815" type="qcurve" smooth="yes"/>
+      <point x="320" y="815"/>
+      <point x="355" y="776" type="qcurve" smooth="yes"/>
+      <point x="367" y="762"/>
+      <point x="378" y="699"/>
+      <point x="378" y="671" type="qcurve" smooth="yes"/>
+      <point x="378" y="651"/>
+      <point x="377" y="638"/>
+      <point x="376" y="633" type="qcurve"/>
+      <point x="333" y="684"/>
+      <point x="298" y="684" type="qcurve" smooth="yes"/>
+      <point x="280" y="684"/>
+      <point x="274" y="669" type="qcurve"/>
+      <point x="192" y="388" type="line"/>
+      <point x="190" y="48" type="line"/>
+      <point x="191" y="30"/>
+      <point x="197" y="13"/>
+      <point x="209" y="-2" type="curve"/>
+      <point x="172" y="-2"/>
+      <point x="103" y="-1"/>
+      <point x="59" y="5"/>
+      <point x="50" y="29"/>
+      <point x="50" y="71" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

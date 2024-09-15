@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emwa" format="2">
+  <advance width="231"/>
+  <unicode hex="F0020"/>
+  <outline>
+    <contour>
+      <point x="-363" y="157" type="line"/>
+      <point x="231" y="157" type="line"/>
+      <point x="231" y="0" type="line"/>
+      <point x="-322" y="0" type="line"/>
+      <point x="-364" y="24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

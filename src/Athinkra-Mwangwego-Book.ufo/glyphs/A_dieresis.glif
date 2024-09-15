@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="2">
+  <advance width="982"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <component base="A" xScale="1.29" yScale="1.29" xOffset="1"/>
+    <contour>
+      <point x="396" y="1181" type="qcurve" smooth="yes"/>
+      <point x="396" y="1120"/>
+      <point x="332" y="1120" type="qcurve" smooth="yes"/>
+      <point x="271" y="1120"/>
+      <point x="271" y="1181" type="qcurve" smooth="yes"/>
+      <point x="271" y="1245"/>
+      <point x="332" y="1245" type="qcurve" smooth="yes"/>
+      <point x="396" y="1245"/>
+    </contour>
+    <contour>
+      <point x="705" y="1181" type="qcurve" smooth="yes"/>
+      <point x="705" y="1120"/>
+      <point x="641" y="1120" type="qcurve" smooth="yes"/>
+      <point x="580" y="1120"/>
+      <point x="580" y="1181" type="qcurve" smooth="yes"/>
+      <point x="580" y="1245"/>
+      <point x="641" y="1245" type="qcurve" smooth="yes"/>
+      <point x="705" y="1245"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

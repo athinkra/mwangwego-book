@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fa-mwangwego" format="2">
+  <advance width="514"/>
+  <unicode hex="F0004"/>
+  <anchor x="255" y="-30" name="bottom"/>
+  <anchor x="255" y="832" name="top"/>
+  <anchor x="255" y="832" name="pewa"/>
+  <outline>
+    <contour>
+      <point x="464" y="65" type="line" smooth="yes"/>
+      <point x="464" y="22"/>
+      <point x="436" y="-1"/>
+      <point x="394" y="-1" type="qcurve" smooth="yes"/>
+      <point x="53" y="-1" type="line"/>
+      <point x="53" y="149" type="line"/>
+      <point x="322" y="149" type="line"/>
+      <point x="322" y="564" type="line" smooth="yes"/>
+      <point x="322" y="613.185"/>
+      <point x="310" y="637" type="qcurve" smooth="yes"/>
+      <point x="294.365" y="668"/>
+      <point x="255" y="668" type="qcurve" smooth="yes"/>
+      <point x="215.632" y="668.003"/>
+      <point x="200" y="637" type="qcurve" smooth="yes"/>
+      <point x="188" y="613.187"/>
+      <point x="188" y="564" type="qcurve" smooth="yes"/>
+      <point x="188" y="472" type="line"/>
+      <point x="50" y="472" type="line"/>
+      <point x="50" y="642" type="line" smooth="yes"/>
+      <point x="50" y="719"/>
+      <point x="179" y="815"/>
+      <point x="255" y="815" type="qcurve" smooth="yes"/>
+      <point x="331" y="815"/>
+      <point x="464" y="719"/>
+      <point x="464" y="642" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tumba" format="2">
+  <advance width="97"/>
+  <unicode hex="F002E"/>
+  <outline>
+    <contour>
+      <point x="97" y="497" type="line"/>
+      <point x="97" y="801" type="line"/>
+      <point x="0" y="801" type="line"/>
+      <point x="0" y="497" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

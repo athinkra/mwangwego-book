@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ota" format="2">
+  <advance width="276"/>
+  <unicode hex="F0022"/>
+  <outline>
+    <contour>
+      <point x="276" y="183" type="qcurve" smooth="yes"/>
+      <point x="276" y="293"/>
+      <point x="154" y="435"/>
+      <point x="57" y="435" type="qcurve"/>
+      <point x="57" y="300" type="line"/>
+      <point x="92" y="300"/>
+      <point x="141.691" y="264.967"/>
+      <point x="145" y="211" type="qcurve" smooth="yes"/>
+      <point x="146.591" y="185.049"/>
+      <point x="131" y="173" type="qcurve"/>
+      <point x="112" y="157"/>
+      <point x="61" y="157" type="qcurve" smooth="yes"/>
+      <point x="-363" y="157" type="line"/>
+      <point x="-364" y="24" type="line"/>
+      <point x="-322" y="0" type="line"/>
+      <point x="41" y="0" type="line" smooth="yes"/>
+      <point x="163" y="0"/>
+      <point x="222" y="50" type="qcurve" smooth="yes"/>
+      <point x="276" y="96"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

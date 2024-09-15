@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ni-waya" format="2">
+  <advance width="277"/>
+  <unicode hex="F003B"/>
+  <outline>
+    <contour>
+      <point x="97" y="517" type="line"/>
+      <point x="97" y="801" type="line"/>
+      <point x="0" y="801" type="line"/>
+      <point x="0" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="517" type="line"/>
+      <point x="277" y="801" type="line"/>
+      <point x="180" y="801" type="line"/>
+      <point x="180" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="359" type="line"/>
+      <point x="275" y="446" type="line"/>
+      <point x="1" y="446" type="line"/>
+      <point x="1" y="359" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>
