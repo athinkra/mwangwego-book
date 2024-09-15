@@ -9,13 +9,7 @@ under the name "Mwangwego Book".  The Athinkra project placed the font under the
 this project updates the OFL release to relocate the glyphs into the Private Use Area.  See the [FONTLOG.txt](FONTLOG.txt)
 file in this directory for a list of additional changes.
 
-
-## Refinment Notes and TODOs
-
-* The Emwa length is set to 1/3 the line height (needs evaluation). Ima, Otu, and Uyu are then based on this proportion.
-* Increase font height to accomodate Pewa (avoid top trunctation from interlinear spacing).
-* Rename glyphs to support positioning over ligatures (avoid "\_" use which FontLab interprets in a special way).
-* Verify that letters heights should be the same.
-* Check if "U" shapes should have the same spacing between vertical strokes.
-* Add fillets to all joining positions of the the diacritics.
-
+The present version of the font has been developed in support of a proposal for the encoding of the script under The Unicode
+Standard.  All glyphs are presently encoded within the
+[Supplementary Private Use Area-A](https://en.wikipedia.org/wiki/Supplementary_Private_Use_Area-A)
+to allow for compatibility with the Microsoft Office Suite.
