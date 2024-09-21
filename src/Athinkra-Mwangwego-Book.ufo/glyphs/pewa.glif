@@ -2,6 +2,8 @@
 <glyph name="pewa" format="2">
   <unicode hex="F002D"/>
   <anchor x="214" y="844" name="_pewa"/>
+  <anchor x="215" y="1151" name="pewa"/>
+  <anchor x="215" y="1151" name="top"/>
   <outline>
     <contour>
       <point x="434" y="913" type="line"/>
