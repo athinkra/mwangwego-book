@@ -2,6 +2,8 @@
 <glyph name="ba-ima-pewa" format="2">
   <advance width="801"/>
   <anchor x="271" y="-30" name="bottom"/>
+  <anchor x="444" y="1108" name="top"/>
+  <anchor x="444" y="1108" name="pewa"/>
   <outline>
     <contour>
       <point x="663" y="893" type="line"/>

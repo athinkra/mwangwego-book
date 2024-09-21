@@ -24,8 +24,6 @@
   <string>ba-ima.glif</string>
   <key>ba-ima-pewa</key>
   <string>ba-ima-pewa.glif</string>
-  <key>ba-mwangwego</key>
-  <string>ba-mwangwego.glif</string>
   <key>ba-ota</key>
   <string>ba-ota.glif</string>
   <key>ba-ota-pewa</key>
@@ -300,6 +298,8 @@
   <string>sisa-ni.glif</string>
   <key>sisa-ni-hi</key>
   <string>sisa-ni-hi.glif</string>
+  <key>space</key>
+  <string>space.glif</string>
   <key>ta-emwa</key>
   <string>ta-emwa.glif</string>
   <key>ta-ima</key>
@@ -388,8 +388,6 @@
   <string>za-ima.glif</string>
   <key>za-ima-pewa</key>
   <string>za-ima-pewa.glif</string>
-  <key>za-mwangwego</key>
-  <string>za-mwangwego.glif</string>
   <key>za-ota</key>
   <string>za-ota.glif</string>
   <key>za-ota-pewa</key>
