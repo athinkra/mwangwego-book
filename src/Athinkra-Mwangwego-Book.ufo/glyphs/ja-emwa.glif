@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ja-emwa" format="2">
   <advance width="801"/>
-  <anchor x="272" y="-30" name="bottom"/>
-  <anchor x="272" y="815" name="top"/>
   <outline>
     <contour>
       <point x="751" y="-7" type="line"/>

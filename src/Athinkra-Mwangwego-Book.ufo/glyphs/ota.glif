@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ota" format="2">
   <advance width="276"/>
-  <unicode hex="F0022"/>
+  <unicode hex="16E22"/>
   <outline>
     <contour>
       <point x="276" y="183" type="qcurve" smooth="yes"/>

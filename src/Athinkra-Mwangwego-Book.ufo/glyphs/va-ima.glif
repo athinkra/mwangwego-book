@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="va-ima" format="2">
   <advance width="770"/>
-  <anchor x="271" y="835" name="top"/>
-  <anchor x="271" y="-30" name="bottom"/>
-  <anchor x="271" y="835" name="pewa"/>
   <outline>
     <contour>
       <point x="720" y="59" type="qcurve" smooth="yes"/>

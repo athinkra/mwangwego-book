@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zha-emwa" format="2">
   <advance width="801"/>
-  <anchor x="270" y="835" name="top"/>
-  <anchor x="270" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="751" y="-7" type="line"/>

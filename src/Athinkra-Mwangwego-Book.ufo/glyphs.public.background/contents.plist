@@ -118,8 +118,6 @@
   <string>ha-uyu.glif</string>
   <key>hi</key>
   <string>hi.glif</string>
-  <key>hi-waya</key>
-  <string>hi-waya.glif</string>
   <key>hla-emwa</key>
   <string>hla-emwa.glif</string>
   <key>hla-ima</key>
@@ -202,8 +200,6 @@
   <string>na-emwa.glif</string>
   <key>na-ima</key>
   <string>na-ima.glif</string>
-  <key>na-mwangwego</key>
-  <string>na-mwangwego.glif</string>
   <key>na-ota</key>
   <string>na-ota.glif</string>
   <key>na-uyu</key>
@@ -232,8 +228,6 @@
   <string>pa-emwa.glif</string>
   <key>pa-ima</key>
   <string>pa-ima.glif</string>
-  <key>pa-mwangwego</key>
-  <string>pa-mwangwego.glif</string>
   <key>pa-ota</key>
   <string>pa-ota.glif</string>
   <key>pa-uyu</key>

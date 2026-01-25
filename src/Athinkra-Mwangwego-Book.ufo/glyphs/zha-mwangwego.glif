@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zha-mwangwego" format="2">
   <advance width="540"/>
-  <unicode hex="F0009"/>
-  <anchor x="270" y="835" name="top"/>
-  <anchor x="270" y="-30" name="bottom"/>
+  <unicode hex="16E09"/>
   <outline>
     <contour>
       <point x="337" y="187" type="line" smooth="yes"/>

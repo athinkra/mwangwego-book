@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tumba-waya" format="2">
   <advance width="274"/>
-  <unicode hex="F003F"/>
+  <unicode hex="16E3F"/>
   <outline>
     <contour>
       <point x="274" y="339" type="line"/>

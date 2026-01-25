@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ha-mwangwego" format="2">
   <advance width="618"/>
-  <unicode hex="F0007"/>
-  <anchor x="433" y="836" name="top"/>
-  <anchor x="252" y="-30" name="bottom"/>
+  <unicode hex="16E07"/>
   <outline>
     <contour>
       <point x="483" y="82" type="qcurve"/>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ja-ima" format="2">
   <advance width="771"/>
-  <anchor x="272" y="-30" name="bottom"/>
-  <anchor x="272" y="815" name="top"/>
   <outline>
     <contour>
       <point x="540.85" y="-7.3" type="curve" smooth="yes"/>

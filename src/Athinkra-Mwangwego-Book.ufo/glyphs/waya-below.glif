@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="waya-below" format="2">
-  <unicode hex="F0029"/>
-  <anchor x="172" y="-30" name="_bottom"/>
-  <anchor x="172" y="-250" name="bottom"/>
+  <unicode hex="16E29"/>
   <outline>
     <contour>
       <point x="344" y="-217" type="line"/>

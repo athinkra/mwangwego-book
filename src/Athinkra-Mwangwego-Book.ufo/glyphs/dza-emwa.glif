@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dza-emwa" format="2">
   <advance width="576"/>
-  <anchor x="200" y="-30" name="bottom"/>
-  <anchor x="217" y="835" name="top"/>
   <outline>
     <contour>
       <point x="526" y="-4" type="qcurve"/>

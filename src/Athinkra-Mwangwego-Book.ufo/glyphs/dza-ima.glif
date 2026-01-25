@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dza-ima" format="2">
   <advance width="612"/>
-  <anchor x="200" y="-30" name="bottom"/>
-  <anchor x="217" y="835" name="top"/>
   <outline>
     <contour>
       <point x="562" y="58" type="qcurve" smooth="yes"/>

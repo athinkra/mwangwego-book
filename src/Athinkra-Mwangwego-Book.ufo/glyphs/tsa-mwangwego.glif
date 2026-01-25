@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tsa-mwangwego" format="2">
   <advance width="477"/>
-  <unicode hex="F0014"/>
-  <anchor x="313" y="835" name="top"/>
-  <anchor x="214" y="-30" name="bottom"/>
+  <unicode hex="16E14"/>
   <outline>
     <contour>
       <point x="361" y="82" type="qcurve" smooth="yes"/>

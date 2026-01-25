@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>815</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2024, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Athinkra: Mwangwego&quot; and &quot;Athinkra: Mwangwego Regular&quot;.</string>
+  <string>Copyright (c) 2023-2026, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Athinkra: Mwangwego&quot; and &quot;Athinkra: Mwangwego Regular&quot;.</string>
   <key>descender</key>
   <integer>-448</integer>
   <key>familyName</key>
@@ -42,7 +42,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/02/12 01:01:31</string>
+  <string>2026/01/25 17:34:38</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -54,14 +54,19 @@
   <integer>-448</integer>
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
+  <key>openTypeNameDescription</key>
+  <string>The original letter shapes of this font were created by Jason Glavy based published materials by the script creator, Nolence Mwangwego.
+
+</string>
   <key>openTypeNameDesigner</key>
   <string>Jason Glavy</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://glavyfonts.com/</string>
   <key>openTypeNameLicense</key>
-  <string>This Font Software is Copyright (c) 2023, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Athinkra: Mwangwego&quot; and &quot;Athinkra: Mwangwego Regular&quot;.
+  <string>This Font Software is Copyright (c) 2023-2026, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Athinkra: Mwangwego Book&quot; and &quot;Athinkra: Mwangwego Book Regular&quot;.
 
 This Font Software is Copyright (c) 2006-2023, Athinkra, LLC (zenodotus@gmail.com&gt;), with reserved font name &quot;Mwangwego Book&quot;.
+
 Copyright (c) 2011, Jason Glavy (&lt;www.glavyfonts.com|jglavy@gmail.com&gt;).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL.
@@ -116,7 +121,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.601</string>
+  <string>Version 1.700</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -220,7 +225,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>600</integer>
+  <integer>700</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>

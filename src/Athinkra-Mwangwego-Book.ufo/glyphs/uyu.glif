@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uyu" format="2">
   <advance width="260"/>
-  <unicode hex="F0023"/>
+  <unicode hex="16E23"/>
   <outline>
     <contour>
       <point x="-322" y="0" type="line"/>

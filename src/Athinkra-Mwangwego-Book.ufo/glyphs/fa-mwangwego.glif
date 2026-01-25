@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fa-mwangwego" format="2">
   <advance width="514"/>
-  <unicode hex="F0004"/>
-  <anchor x="255" y="-30" name="bottom"/>
-  <anchor x="255" y="832" name="top"/>
-  <anchor x="255" y="832" name="pewa"/>
+  <unicode hex="16E04"/>
   <outline>
     <contour>
       <point x="464" y="65" type="line" smooth="yes"/>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="za-uyu-pewa" format="2">
   <advance width="664"/>
-  <anchor x="170" y="-30" name="bottom"/>
-  <anchor x="265" y="1130" name="top"/>
-  <anchor x="265" y="1130" name="pewa"/>
   <outline>
     <contour>
       <point x="614" y="84" type="qcurve" smooth="yes"/>

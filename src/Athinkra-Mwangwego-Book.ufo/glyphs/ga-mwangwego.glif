@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ga-mwangwego" format="2">
   <advance width="611"/>
-  <unicode hex="F0005"/>
-  <anchor x="341" y="835" name="top"/>
-  <anchor x="308" y="-30" name="bottom"/>
+  <unicode hex="16E05"/>
   <outline>
     <contour>
       <point x="561" y="0" type="line"/>

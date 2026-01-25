@@ -6,6 +6,32 @@
   <array>
     <string>ka-mwangwego</string>
   </array>
+  <key>public.kern1.myu</key>
+  <array>
+    <string>hi</string>
+    <string>hi-waya</string>
+    <string>mi</string>
+    <string>mi-hi</string>
+    <string>mi-hi-waya</string>
+    <string>mi-waya</string>
+    <string>myu</string>
+    <string>myu-hi</string>
+    <string>myu-hi-waya</string>
+    <string>myu-ni</string>
+    <string>myu-ni-hi</string>
+    <string>myu-ni-hi-waya</string>
+    <string>myu-waya</string>
+    <string>ni</string>
+    <string>ni-hi</string>
+    <string>ni-hi-waya</string>
+    <string>ni-waya</string>
+    <string>sisa</string>
+    <string>sisa-ni</string>
+    <string>sisa-ni-hi</string>
+    <string>tumba</string>
+    <string>tumba-waya</string>
+    <string>waya</string>
+  </array>
   <key>public.kern2.na-mwangwego</key>
   <array>
     <string>na-emwa</string>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="za-ota" format="2">
   <advance width="673"/>
-  <anchor x="264" y="833" name="pewa"/>
-  <anchor x="170" y="-30" name="bottom"/>
-  <anchor x="264" y="835" name="top"/>
   <outline>
     <contour>
       <point x="623" y="181" type="qcurve" smooth="yes"/>

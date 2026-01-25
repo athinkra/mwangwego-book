@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ba-ota" format="2">
   <advance width="862"/>
-  <anchor x="444" y="845" name="pewa"/>
-  <anchor x="301" y="815" name="top"/>
-  <anchor x="272" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="541.85" y="-8.3" type="curve" smooth="yes"/>
