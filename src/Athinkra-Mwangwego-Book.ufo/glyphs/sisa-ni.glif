@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sisa-ni" format="2">
   <advance width="277"/>
-  <unicode hex="16E3D"/>
+  <unicode hex="16E38"/>
   <outline>
     <contour>
       <point x="97" y="217" type="line"/>

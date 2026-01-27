@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="myu-hi" format="2">
   <advance width="301"/>
-  <unicode hex="16E33"/>
+  <unicode hex="16E31"/>
   <outline>
     <contour>
       <point x="119.983" y="400.017" type="curve" smooth="yes"/>

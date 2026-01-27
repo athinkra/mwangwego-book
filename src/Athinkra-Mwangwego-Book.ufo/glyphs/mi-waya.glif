@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mi-waya" format="2">
   <advance width="439"/>
-  <unicode hex="16E38"/>
+  <unicode hex="16E34"/>
   <outline>
     <contour>
       <point x="426" y="359" type="line"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mi-hi" format="2">
   <advance width="440"/>
-  <unicode hex="16E36"/>
+  <unicode hex="16E33"/>
   <outline>
     <contour>
       <point x="179.389" y="400.017" type="curve" smooth="yes"/>

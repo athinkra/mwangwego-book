@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hi-waya" format="2">
   <advance width="305"/>
-  <unicode hex="16E3C"/>
+  <unicode hex="16E37"/>
   <outline>
     <contour>
       <point x="13" y="466" type="line"/>

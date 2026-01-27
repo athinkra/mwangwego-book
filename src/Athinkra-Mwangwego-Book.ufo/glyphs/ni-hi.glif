@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ni-hi" format="2">
   <advance width="305"/>
-  <unicode hex="16E39"/>
+  <unicode hex="16E35"/>
   <outline>
     <contour>
       <point x="12" y="527" type="line"/>
