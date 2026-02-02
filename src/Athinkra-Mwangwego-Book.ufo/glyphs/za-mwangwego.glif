@@ -2,6 +2,9 @@
 <glyph name="za-mwangwego" format="2">
   <advance width="428"/>
   <unicode hex="16E19"/>
+  <anchor x="264" y="835" name="pewa"/>
+  <anchor x="170" y="-30" name="bottom"/>
+  <anchor x="264" y="835" name="top"/>
   <outline>
     <contour>
       <point x="50" y="432" type="line"/>

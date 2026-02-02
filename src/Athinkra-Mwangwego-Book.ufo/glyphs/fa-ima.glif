@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fa-ima" format="2">
   <advance width="773"/>
+  <anchor x="255" y="-30" name="bottom"/>
+  <anchor x="255" y="832" name="top"/>
+  <anchor x="255" y="832" name="pewa"/>
   <outline>
     <contour>
       <point x="723" y="59" type="qcurve" smooth="yes"/>

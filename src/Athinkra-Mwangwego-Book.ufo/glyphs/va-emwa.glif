@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="va-emwa" format="2">
   <advance width="800"/>
+  <anchor x="271" y="835" name="top"/>
+  <anchor x="271" y="-30" name="bottom"/>
+  <anchor x="271" y="835" name="pewa"/>
   <outline>
     <contour>
       <point x="750" y="-3" type="line"/>

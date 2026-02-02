@@ -2,6 +2,9 @@
 <glyph name="va-mwangwego" format="2">
   <advance width="540"/>
   <unicode hex="16E16"/>
+  <anchor x="271" y="835" name="top"/>
+  <anchor x="271" y="-30" name="bottom"/>
+  <anchor x="271" y="835" name="pewa"/>
   <outline>
     <contour>
       <point x="490" y="86" type="qcurve" smooth="yes"/>

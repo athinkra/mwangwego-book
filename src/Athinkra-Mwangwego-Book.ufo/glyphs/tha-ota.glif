@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tha-ota" format="2">
   <advance width="834"/>
+  <anchor x="260" y="-30" name="bottom"/>
+  <anchor x="260" y="835" name="top"/>
+  <anchor x="260" y="835" name="pewa"/>
   <outline>
     <contour>
       <point x="784" y="180" type="qcurve" smooth="yes"/>

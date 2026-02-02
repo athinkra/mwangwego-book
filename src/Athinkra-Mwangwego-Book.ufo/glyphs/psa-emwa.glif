@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="psa-emwa" format="2">
   <advance width="787"/>
+  <anchor x="263" y="835" name="top"/>
+  <anchor x="263" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="737" y="-2" type="line"/>

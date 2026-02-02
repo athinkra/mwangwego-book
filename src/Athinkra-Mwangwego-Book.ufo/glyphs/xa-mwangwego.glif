@@ -2,6 +2,8 @@
 <glyph name="xa-mwangwego" format="2">
   <advance width="555"/>
   <unicode hex="16E1D"/>
+  <anchor x="288" y="835" name="top"/>
+  <anchor x="288" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="505" y="-2" type="qcurve"/>

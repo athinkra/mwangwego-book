@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dhla-ima" format="2">
   <advance width="771"/>
+  <anchor x="270" y="835" name="top"/>
+  <anchor x="270" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="720.85" y="173.17" type="curve"/>

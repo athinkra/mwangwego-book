@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hla-ima" format="2">
   <advance width="747"/>
+  <anchor x="257" y="835" name="top"/>
+  <anchor x="257" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="353" y="415" type="qcurve" smooth="yes"/>

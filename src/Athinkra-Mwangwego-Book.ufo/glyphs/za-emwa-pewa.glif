@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="za-emwa-pewa" format="2">
   <advance width="584"/>
+  <anchor x="170" y="-30" name="bottom"/>
+  <anchor x="265" y="1130" name="pewa"/>
+  <anchor x="265" y="1130" name="top"/>
   <outline>
     <contour>
       <point x="534" y="-2" type="line"/>
