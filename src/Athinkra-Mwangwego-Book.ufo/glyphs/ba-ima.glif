@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ba-ima" format="2">
   <advance width="771"/>
-  <anchor x="443" y="845" name="pewa"/>
-  <anchor x="300" y="815" name="top"/>
-  <anchor x="271" y="-30" name="bottom"/>
   <outline>
     <contour>
       <point x="720.85" y="172.17" type="line" smooth="yes"/>

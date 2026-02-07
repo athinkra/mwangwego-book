@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a-uyu" format="2">
   <advance width="918"/>
-  <anchor x="336" y="-30" name="bottom"/>
-  <anchor x="336" y="815" name="top"/>
   <outline>
     <contour>
       <point x="867" y="79" type="qcurve" smooth="yes"/>
