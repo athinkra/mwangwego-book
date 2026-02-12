@@ -11,6 +11,7 @@ this project updates the OFL release to relocate the glyphs into the
 
 Beginning from the v1.700 release, the glyphs have been reencoded under the Unicode 19 provisional encoding for 
 Mwangwego script:  U+16E00 - U+16E3F
+
 See the [FONTLOG](FONTLOG-Mwangwego-Book.txt) file in this directory for a list of additional changes.
 
 ## Keyman Keyboard
