@@ -1,0 +1,25 @@
+FONTLOG
+
+Athinkra Mwangwego Book font family
+===================================
+The "Mwangwego Book" typeface is derived directly from the "JG Oromo"
+TrueType font created by Jason Glavy. The font was released under the OpenFont
+Licese v1.1 on May 10, 2024.
+
+All modifications to the original JG Oromo font are detailed in the following:
+
+
+Version 1.700 - February 7m 2026
+-------------
+* Glyphs reencoded under the Unicode 19 provisional range for Mwangwego: U+16E00 - U+16E3F
+
+
+Version 1.601 - September 21, 2024
+-------------
+* Combining glyphs will now "stack" instead of overlap when the occur in an inappropriate sequence.
+
+
+Version 1.600 - September 15, 2024
+-------------
+* The initial OFL public release of the font with characters encoded in the 
+   Supplementary Private Use Area-A.
