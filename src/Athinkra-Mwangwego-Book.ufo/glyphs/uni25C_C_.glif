@@ -2,6 +2,7 @@
 <glyph name="uni25CC" format="2">
   <advance width="957"/>
   <unicode hex="25CC"/>
+  <anchor x="478" y="850" name="top"/>
   <outline>
     <contour>
       <point x="778.178" y="659.035" type="qcurve" smooth="yes"/>
